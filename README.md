@@ -26,7 +26,8 @@ Currenly, 3 .csv files are added which are placed in the "core" folder.
 the 1st line of .csv file will be "fname,lname,mail"
 and below this line will be the details of all users.
 
-in settings.py set the path of all the .csv files so that thet get linked to the project.
+In settings.py set the path of all the .csv files so that thet get linked to the project.
+Also at line no. 55 and 56 oof settings.py add the emailid and password from which the mails are to be sent.
 
 For ex:
 
