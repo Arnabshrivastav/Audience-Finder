@@ -27,7 +27,7 @@ the 1st line of .csv file will be "fname,lname,mail"
 and below this line will be the details of all users.
 
 In settings.py set the path of all the .csv files so that thet get linked to the project.
-Also at line no. 55 and 56 oof settings.py add the emailid and password from which the mails are to be sent.
+Also at line no. 55 and 56 of settings.py add the emailid and password from which the mails are to be sent.
 
 For ex:
 
